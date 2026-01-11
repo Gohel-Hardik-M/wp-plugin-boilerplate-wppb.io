@@ -13,3 +13,8 @@ The Boilerplate can be installed directly into your plugins folder "as-is". You 
 * change `TEST_PLUGIN_` to `EXAMPLE_ME_`
 
 At activation installs also a test table to the database and deletes it at deactivation. You can adjust your schema at includes/class-test-plugin-activator.php
+
+## Contributors
+
+- GOHEL HARDIK – Computer Engineering Student
+  
